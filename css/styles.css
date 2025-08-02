@@ -484,11 +484,6 @@ a {
     max-width: 264px;
 }
 
-.footer-social-media {
-    display: flex;
-    gap: 16px;
-}
-
 .footer-social-text {
     font-weight: 500;
     font-size: 16px;
@@ -498,7 +493,7 @@ a {
     margin-bottom: 16px;
 }
 
-.footer-social-media {
+.footer-social-list {
     display: flex;
     gap: 16px;
 
