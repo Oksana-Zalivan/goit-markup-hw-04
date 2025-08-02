@@ -193,6 +193,7 @@ a {
     border-radius: 4px;
     cursor: pointer;
     margin: 0px auto;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .hero-btn:hover,
@@ -232,7 +233,7 @@ a {
 }
 
 .benefits-box {
-    border: 1px solid var(--light-slate);
+    border: 1px solid #8e8f99;
     display: flex;
     border-radius: 4px;
     width: 264px;
@@ -240,6 +241,7 @@ a {
     background-color: #f4f4fd;
     align-items: center;
     justify-content: center;
+    margin-bottom: 8px ;
 }
 
 .benefits-subtitle {
